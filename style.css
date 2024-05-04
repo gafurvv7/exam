@@ -1,0 +1,54 @@
+.h1 {
+  border-radius: 20px;
+  background-color: aqua;
+  border: 2px solid red;
+  text-align: center;
+}
+.m {
+  color: rgb(169, 13, 13);
+}
+.yashil {
+  color: green;
+}
+.f {
+  color: green;
+  text-align: center;
+  background-color: yellow;
+}
+.q {
+  width: 500px;
+  height: 300px;
+}
+.i {
+  color: green;
+  text-align: center;
+  background-color: yellow;
+}
+
+.center {
+  text-align: center;
+}
+.o {
+  color: green;
+}
+.s {
+  width: 100%;
+}
+button {
+  background-color: blue;
+  width: 30%;
+  height: 20%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: white;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
